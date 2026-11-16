@@ -39,7 +39,7 @@ const HEADER_HTML = `
     <button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span></button>
     <nav class="main" id="site-nav" aria-label="Main menu">
       <ul>
-        <li><a href="about.html" style="font-size: 18px;">About RJ</a></li>
+        <li><a href="about.html" style="font-size: 24px;">About RJ</a></li>
         <li class="dropdown"><a href="current-members.html" style="font-size: 18px;">Group Members</a>
           <ul>
             <li><a href="current-members.html">Current Members</a></li>
