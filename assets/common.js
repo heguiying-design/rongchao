@@ -39,24 +39,24 @@ const HEADER_HTML = `
     <button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span></button>
     <nav class="main" id="site-nav" aria-label="Main menu">
       <ul>
-        <li><a href="about.html" style="font-size: 24px;">About RJ</a></li>
-        <li class="dropdown"><a href="current-members.html" style="font-size: 24px;">Group Members</a>
+        <li><a href="about.html" style="font-size: 18px;">About RJ</a></li>
+        <li class="dropdown"><a href="current-members.html" style="font-size: 18px;">Group Members</a>
           <ul>
             <li><a href="current-members.html">Current Members</a></li>
             <li><a href="alumni.html">Alumni</a></li>
             <li><a href="group-photos.html">Group Photos</a></li>
           </ul>
         </li>
-        <li class="dropdown"><a href="research-approach.html" style="font-size: 24px;">Research</a>
+        <li class="dropdown"><a href="research-approach.html" style="font-size: 18px;">Research</a>
           <ul>
             <li><a href="research-approach.html">Research Approach</a></li>
             <li><a href="instruments.html">Instruments</a></li>
             <li><a href="funding.html">Funding</a></li>
           </ul>
         </li>
-        <li><a href="publications.html" style="font-size: 24px;">Publications</a></li>
-        <li><a href="news.html" style="font-size: 24px;">News</a></li>
-        <li><a href="links.html" style="font-size: 24px;">Links</a></li>
+        <li><a href="publications.html" style="font-size: 18px;">Publications</a></li>
+        <li><a href="news.html" style="font-size: 18px;">News</a></li>
+        <li><a href="links.html" style="font-size: 18px;">Links</a></li>
       </ul>
     </nav>
   </div>
