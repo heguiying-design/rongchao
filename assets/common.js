@@ -51,7 +51,7 @@ const HEADER_HTML = `
           <ul>
             <li><a href="research-approach.html">Research Approach</a></li>
             <li><a href="instruments.html">Instruments</a></li>
-            <li><a href="funding.html">Funding</a></li>
+            <!-- <li><a href="funding.html">Funding</a></li> -->
           </ul>
         </li>
         <li><a href="publications.html" style="font-size: 18px;">Publications</a></li>
